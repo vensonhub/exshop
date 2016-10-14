@@ -1,0 +1,500 @@
+   35  cd ..
+   36  sudo chown -R  apple /data
+   37  ls
+   38  cd Users/
+   39  ls
+   40  cd apple/
+   41  ls
+   42  cd Applications/mongodb/bin
+   43  ./mongod
+   44  brew install mongodb
+   45  brew update
+   46  ./mongod
+   47  npm install cookie-parser --save
+   48  npm install express-session --save
+   49  ls
+   50  cd WebstormProjects/frontend/AT-H5-32
+   51  ls
+   52  ifconfig
+   53  php -S 10.6.11.46:8888 -t assets/
+   54  mongo
+   55  ls
+   56  cd WebstormProjects/frontend/AT-H5-32
+   57  ls
+   58  ifconfig
+   59  php -S 10.6.11.46:8888 -t assets/
+   60  cd ..
+   61  cd ~/Applications
+   62  ls
+   63  cd mongodb/
+   64  ls
+   65  cd bin/
+   66  ls
+   67  ./mongo
+   68  ./mongod
+   69  mongo
+   70  mongo
+   71  cd ~/Applications/mongodb/bin/
+   72  ./mongod
+   73  ls
+   74  cd WebstormProjects/frontend/
+   75  ls
+   76  cd practice/
+   77  ls
+   78  git clone https://github.com/vensonhub/nodeblog.git
+   79  ls
+   80  cd nodeblog/
+   81  cd ..
+   82  cd n-club/
+   83  ls
+   84  vim app.js 
+   85  cd bin/
+   86  ls
+   87  cd ..
+   88  ls
+   89  cd test/
+   90  ls
+   91  cd ..
+   92  ls
+   93  cd models/
+   94  ls
+   95  cd ..
+   96  ls
+   97  cd routes/
+   98  ls
+   99  cd ..
+  100  cd config/
+  101  ls
+  102  cd ..
+  103  ls
+  104  cd node_modules/
+  105  ls
+  106  cd ..
+  107  ls
+  108  cd ..
+  109  rm -rf n-club/
+  110  ls
+  111  cd nodeblog/
+  112  ls
+  113  vim .gitignore 
+  114  git init
+  115  ls
+  116  cd ..
+  117  ls
+  118  ls
+  119  npm install -g express-generator
+  120  sudo npm install -g express-generator
+  121  express -e nodeblog
+  122  ls
+  123  cd nodeblog/
+  124  ls
+  125  npm install
+  126  ls
+  127  cd bin/
+  128  cd ..
+  129  ls
+  130  node app.js 
+  131  npm start
+  132  ls
+  133  cd bin/
+  134  ls
+  135  cd www 
+  136  cd ..
+  137  ls
+  138  ls
+  139  vim app.js 
+  140  touch .gitignore
+  141  vim .gitignore 
+  142  ls
+  143  SET DEBUG=nodeblog:* & npm start
+  144  ls
+  145  cd bin/
+  146  ls
+  147  cd www 
+  148  ls
+  149  cd ..
+  150  ls
+  151  npm install -g bower
+  152  sudo npm install -g bower
+  153  bower install bootstrap
+  154  bower install bootstrap
+  155  DEBUG=nodelog:*
+  156  ls
+  157  cd debug/
+  158  node 1.debug.js 
+  159  node 1.debug.js 
+  160  DEBUG=nodelog:*
+  161  DEBUG=nodeblog:*
+  162  node 1.debug.js 
+  163   DEBUG=nodeblog:*
+  164  node 1.debug.js 
+  165  echo DEBUG
+  166  DEBUG
+  167  DEBUG=nodeblog:* node 1.debug.js 
+  168  cd ..
+  169  ls
+  170  cd lesson/
+  171  PORT=3030 node 2.argv.js 
+  172  PORT=3030 node 2.argv.js 
+  173  node 2.argv.js 
+  174  ls
+  175  node 2.argv.js 
+  176  node 2.argv.js port=4000
+  177  node 2.argv.js port=4000
+  178  node 2.argv.js PORT=4000
+  179  port=4000 node 2.argv.js
+  180  PORT=4000 node 2.argv.js
+  181  port=4000 node 2.argv.js
+  182  cd ..
+  183  PORT=8080 node start
+  184  PORT=8080 & node start
+  185  PORT=8080 & npm start
+  186  PORT=8080  npm start
+  187  npm start
+  188  npm start
+  189  DEBUG=nodeblog:* npm start
+  190  sudo npm uninstall npm -g
+  191  curl -L https://npmjs.com/install.sh | sh
+  192  DEBUG=nodeblog:* npm start
+  193  curl -L https://npmjs.com/install.sh |sudo sh
+  194  sudo curl -L https://npmjs.com/install.sh | sh
+  195  npm -v
+  196  npm
+  197  cd /usr/local/bin/
+  198  ls
+  199  cd /
+  200  ls
+  201  cd Users/
+  202  ls
+  203  cd apple/
+  204  ls
+  205  cd WebstormProjects/frontend/practice/
+  206  ls
+  207  cd nodeblog/
+  208  ls
+  209  npm start
+  210  npm start
+  211  npm start
+  212  npm install
+  213  npm start
+  214  npm install
+  215  npm start
+  216  cd ..
+  217  sudo npm install -g node-red
+  218  node -v
+  219  cd WebstormProjects/frontend/practice/
+  220  ls
+  221  cd nodeblog/
+  222  ls
+  223  npm start
+  224  cd ~/Applications/mongodb/bin/
+  225  ./mongod
+  226  mongo
+  227  cd WebstormProjects/frontend/
+  228  ls
+  229  cd practice/
+  230  ls
+  231  cd nodeblog/
+  232  ls
+  233  npm start
+  234  npm start
+  235  npm start
+  236  npm start
+  237  npm start
+  238  npm start
+  239  npm start
+  240  npm start
+  241  npm start
+  242  npm start
+  243  npm install markdown --save
+  244  npm install multer --save
+  245  cd WebstormProjects/frontend/practice/nodeblog/
+  246  ls
+  247  npm start
+  248  npm start
+  249  npm start
+  250  npm start
+  251  npm start
+  252  npm start
+  253  npm start
+  254  npm start
+  255  npm start
+  256  npm start
+  257  npm start
+  258  npm start
+  259  npm start
+  260  npm start
+  261  npm start
+  262  npm start
+  263  npm start
+  264  npm start
+  265  npm start
+  266  npm start
+  267  npm start
+  268  npm start
+  269  npm start
+  270  npm start
+  271  npm start
+  272  npm start
+  273  npm start
+  274  npm start
+  275  npm start
+  276  npm start
+  277  npm start
+  278  ls
+  279  ls -l
+  280  cd public/
+  281  ls -l
+  282  ls
+  283  cd ..
+  284  ls
+  285  npm start
+  286  npm start
+  287  npm start
+  288  npm start
+  289  npm start
+  290  npm start
+  291  npm start
+  292  npm start
+  293  npm start
+  294  npm start
+  295  ls
+  296  cd routes/
+  297  ls
+  298  cd ..
+  299  ls
+  300  cd public/
+  301  ls
+  302  cd uploads/
+  303  ls
+  304  cd ..
+  305  ls
+  306  cd ..
+  307  ls
+  308  npm start
+  309  npm start
+  310  npm start
+  311  npm start
+  312  npm start
+  313  npm start
+  314  npm start
+  315  npm start
+  316  npm start
+  317  npm start
+  318  npm start
+  319  npm start
+  320  npm start
+  321  npm start
+  322  npm start
+  323  npm start
+  324  npm start
+  325  npm start
+  326  npm start
+  327  mongo
+  328  cd ~/Applications/mongodb/
+  329  ls
+  330  cd bin/
+  331  ./mongod
+  332  cd ~/Applications/mongodb/bin/
+  333  ./mongod
+  334  mongo
+  335  cd ~/Applications/mongodb/bin/
+  336  ./mongod
+  337  cd WebstormProjects/frontend/practice/nodeblog/
+  338  npm start
+  339  npm start
+  340  npm start
+  341  npm start
+  342  npm start
+  343  npm start
+  344  npm start
+  345  npm start
+  346  npm start
+  347  npm start
+  348  npm start
+  349  npm start
+  350  npm start
+  351  npm start
+  352  npm start
+  353  npm start
+  354  npm start
+  355  npm start
+  356  npm start
+  357  npm start
+  358  npm start
+  359  npm start
+  360  npm start
+  361  cd ..
+  362  ls
+  363  cd lesson_node/
+  364  ls
+  365  ls
+  366  cd 18.angular/
+  367  bower install angular
+  368  cd ..
+  369  cd ..
+  370  cd nodeblog/
+  371  npm start
+  372  cd ..
+  373  cd lesson_node/
+  374  cd 18.angular/
+  375  ls
+  376  bower install bootstrap
+  377  cd 18.angular/resource/
+  378  node server.js 
+  379  node server.js 
+  380  node server.js 
+  381  cd WebstormProjects/frontend/practice/lesson_node/
+  382  ls
+  383  cd 18.angular/
+  384  bower install angular-route
+  385  bower install angular-resource
+  386  cd ~/Applications/mongodb/bin/
+  387  ./mongod
+  388  git pull
+  389  ls history
+  390  ls histroy
+  391  histroy
+  392  cd WebstormProjects/frontend/
+  393  ls
+  394  cd practice/
+  395  ls
+  396  express -e 2016todo
+  397  cd 2016todo && npm install
+  398  cd ..
+  399  ls
+  400  touch .bowerrc
+  401  rm .bowerrc 
+  402  cd 2016todo/
+  403  rm .bowerrc 
+  404  touch .bowerrc
+  405  bower install bootstrap angular
+  406  npm start
+  407  npm start
+  408  npm start
+  409  git init
+  410  ls
+  411  ls -a
+  412  npm start
+  413  npm start
+  414  npm start
+  415  cd /Users/apple/WebstormProjects/frontend/practice/2016todo/public
+  416  ls
+  417  cd lib/
+  418  ls
+  419  npm start
+  420  npm start
+  421  npm start
+  422  npm start
+  423  npm start
+  424  npm start
+  425  npm start
+  426  npm start
+  427  cd ..
+  428  cd ..
+  429  ls
+  430  git remote add origin https://github.com/vensonhub/nodetodo.git
+  431  git push -u origin master
+  432  git remote add origin https://github.com/vensonhub/nodetodo.git
+  433  git remote
+  434  git remote origin
+  435  git pull
+  436  ls
+  437  ls -l
+  438  ls -a
+  439  rm -rf .git
+  440  ls
+  441  ls -a
+  442  git remote add origin https://github.com/vensonhub/nodetodo.git
+  443  git init
+  444  ls -a
+  445  git remote add origin https://github.com/vensonhub/nodetodo.git
+  446  git push -u origin master
+  447  git push -u origin master
+  448  touch README
+  449  git add README 
+  450  git commit -m 'first commit'
+  451  git push origin master
+  452  ls
+  453  ls
+  454  mongo
+  455  mongo
+  456  sudo lsof -i -P | grep -i "listen"
+  457  lsof -i:80
+  458  lsof -i tcp:80
+  459  cd /private/etc/sudoers 
+  460  vim /private/etc/sudoers 
+  461  cd /private/etc/
+  462  ls
+  463  vim sudoers
+  464  sudo vim sudoers 
+  465  cd /
+  466  cd ~
+  467  cd WebstormProjects/frontend/practice/lesson_node/20.socket.io/
+  468  ls
+  469  sudo node server.js 
+  470  sudo node server.js 
+  471  sudo node 2.space.js 
+  472  sudo node 2.space.js 
+  473  sudo node 2.space.js 
+  474  sudo node 2.space.js 
+  475  sudo node 2.space.js 
+  476  sudo node 2.space.js 
+  477  sudo node 2.space.js 
+  478  sudo node 2.space.js 
+  479  sudo node 2.space.js 
+  480  sudo node 2.space.js 
+  481  sudo node 2.space.js 
+  482  sudo node 2.space.js 
+  483  sudo node 2.space.js 
+  484  sudo node 2.space.js 
+  485  sudo node 2.space.js 
+  486  cd WebstormProjects/frontend/practice/lesson_node/
+  487  cd 26.chat/
+  488  sudo node app.js 
+  489  sudo node app.js 
+  490  sudo node app.js 
+  491  sudo node app.js 
+  492  sudo node app.js 
+  493  sudo node app.js 
+  494  mysql
+  495  mysql
+  496  mysql -uroot -p -h127.0.0.1
+  497  sudo vi /etc/sudoers
+  498  sudo vi /etc/sudoers
+  499  mysql
+  500  mysql
+  501  ls
+  502  cd WebstormProjects/frontend/practice/
+  503  mkdir exshop
+  504  cd exshop/
+  505  git init
+  506  ls
+  507  ls -l
+  508  npm init
+  509  ls -l
+  510  ls -a
+  511  rm -rf .git/
+  512  ls
+  513  touch .bowerrc
+  514  mkdir app
+  515  ls
+  516  ls -l
+  517  ls -a
+  518  vim .bowerrc 
+  519  cd app/
+  520  mkdir public
+  521  cd public/
+  522  mkdir lib
+  523  cd ..
+  524  cd ..
+  525  ls
+  526  vim .bowerrc 
+  527  bower init
+  528  ls
+  529  ls
+  530  pwd
+  531  bower install bootstrap
+  532  bower install angular angular-route --save
+  533  history
+  534  history >> cmd.log
